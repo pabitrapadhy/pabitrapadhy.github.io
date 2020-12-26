@@ -8,15 +8,20 @@
 
     <div class="site-info">
         <div class="primary-info">
-            <h1>{{ page.title }}</h1>
-            <p>{{ page.desc }}</p>
+            <h1>{{ page.page_title }}</h1>
+            <p>{{ page.page_desc }}</p>
 
         </div>
 
         {% if page.include_cta_btn == true %}
         <div class="secondary-info">
-            <p>
-                <a class="btn btn-primary" href="{{ page.cta_link | prepend: site.baseurl }}"><i class="fa {{ page.cta_icon }}"></i>{{page.cta_text}}</a>
+            <p>                
+                <a class="profile-link-icon" href="{{ page.cta_linkedin_link }}" target="_blank" rel="noopener noreferrer">
+                    <i class="fa fa-linkedin-square"></i>
+                </a>
+                <a class="profile-link-icon" href="{{ page.cta_github_link }}" target="_blank" rel="noopener noreferrer">
+                    <i class="fa fa-github-square"></i>
+                </a>
             </p>
         </div>
         {% endif %}

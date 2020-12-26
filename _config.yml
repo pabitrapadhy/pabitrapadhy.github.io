@@ -1,6 +1,6 @@
 # Site settings
-title: Writer Theme
-email: help@writer-theme.com
+title: Pabitra Padhy
+email: test@pabitrapadhy.com
 description: > # Writer Theme is a responsive template
  focussed on typography, minimal design and
   quality photography built using the Jekyll platform.
@@ -10,11 +10,11 @@ enable_retina: false
 permalink: :title
 nav_list:
   Home : ['Home', '/', 'fa-home']
-  Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
-  Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
-  About : ['About', '/about', 'fa-anchor']
-  Contact : ['Contact', '/contact', 'fa-plane']
-  Author : ['Author', '/author/pabitra', 'fa-user']
+  Author : ['About', '/author/pabitra', 'fa-user']
+  # Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
+  # Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
+  # About : ['About', '/about', 'fa-anchor']
+  # Contact : ['Contact', '/contact', 'fa-plane']
 single_footer: '<p>The writer community loves your content. Writer &copy; 2016 <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']

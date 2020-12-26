@@ -14,4 +14,10 @@
     <!--[if lt IE 9]>
         <script src="{{ "/js/vendor/html5shiv.min.js" | prepend: site.baseurl }}"></script>
     <![endif]-->
+
+    <!-- Sharing post on LinkedIn -->
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:image" content="{{ page.feature_image }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}">
 </head>

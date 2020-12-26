@@ -1,9 +1,7 @@
 # Site settings
 title: Pabitra Padhy
 email: test@pabitrapadhy.com
-description: > # Writer Theme is a responsive template
- focussed on typography, minimal design and
-  quality photography built using the Jekyll platform.
+description: Blogs on computer science and games.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 enable_retina: false
@@ -17,8 +15,8 @@ nav_list:
   # Contact : ['Contact', '/contact', 'fa-plane']
 single_footer: '<p>The writer community loves your content. Writer &copy; 2016 <a href="/">latest posts</a></p>'
 footer_links:
-    About: ['About', '/about']
-    Writer: ['Writer 2016', '/about']
+    About: ['About', '/author/pabitra']
+    Writer: ['Made with ❤ by someone, but I made it awesome.', '/#']
 
 
 # Build settings

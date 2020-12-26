@@ -3,7 +3,7 @@ title: Pabitra Padhy
 email: test@pabitrapadhy.com
 description: Blogs on computer science and games.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pabitrapadhy.com/" # the base hostname & protocol for your site
+url: "https://pabitrapadhy.com" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 nav_list:

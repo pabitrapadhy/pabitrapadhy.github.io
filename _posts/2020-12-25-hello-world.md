@@ -19,11 +19,11 @@ This is the induction to the upcoming blogs on computer science, C++, life and m
 
 As you know I make games... wait you didn't knew. I dare you check my about page, I spent 30 mins on selecting the images, I'm that busy.
 
-A lot of thoughts cross my mind everyday, now I can make a YouTube video for each one of them, but cache is somewhat important for programmers and my system. So, I made the coolest looking, laziest working website, so I only have to edit markdown files for posts. 
+A lot of thoughts cross my mind everyday, now I can make a YouTube video for each one of them, but cache is somewhat important for programmers and my system. So, I made the coolest looking, laziest working website, as I only have to edit markdown files for posts. 
 
-On second thought, our technical experitise (bricks) is held together by the glue (character) which shapes what kind of structure (life experiences) we build. - I said this don't copy.
+On second thought, our technical experitise (bricks) is held together by the glue (character) which shapes what kind of structures (life experiences) we build. - I said this don't copy.
 
 In upcoming blogs I'll share with you all a bit of everything that I learn.
 Do spend time with your family and friends, there's more to life than banging your fingers on keyboard... okay I'm leaving.
 
-Wishing you Merry Christmas and a Happy New Year.
+Wishing you a Merry Christmas and a Happy New Year.

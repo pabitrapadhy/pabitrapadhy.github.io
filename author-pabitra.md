@@ -5,7 +5,7 @@ permalink: author/pabitra/
 feature_image: author-thumbnail
 author_avatar: pabitra
 author_name: Pabitra Padhy
-title: Pabitra Padhy
+title: About Me
 ---
 
 # Pabitra Padhy
